@@ -1,1 +1,1 @@
-window.QUANT_CFG={NAME:"QUANT",TICKER:"QUANT",CHAIN:"solana",PAD:"pump.fun",CA:"",PAIR:"",X:"",BUY:"",CHART:""};
+window.QUANT_CFG={NAME:"QUANT",TICKER:"QUANT",CHAIN:"solana",PAD:"pump.fun",CA:"5E9ceAeEgsYSzxHyz1zEarcn3PB5aq3grqYqQjQbpump",PAIR:"",X:"https://x.com/QuantAgentz",BUY:"https://pump.fun/coin/5E9ceAeEgsYSzxHyz1zEarcn3PB5aq3grqYqQjQbpump",CHART:""};
